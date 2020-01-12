@@ -1,4 +1,4 @@
-// Lesson: Undefined and Null
+// Lesson 3: Undefined and Null
 
 // Undefined for variable
 
