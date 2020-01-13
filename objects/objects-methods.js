@@ -1,3 +1,5 @@
+// Lesson 7: Methods
+
 let restaurant = {
     name: 'Ming Moon',
     guestCapacity: 75,
