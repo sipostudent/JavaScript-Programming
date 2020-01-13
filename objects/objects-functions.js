@@ -1,3 +1,5 @@
+// Lesson 3: Objects with Functions
+
 let myBook = {
     title: 'The BFG',
     author: 'Roald Dahl',
