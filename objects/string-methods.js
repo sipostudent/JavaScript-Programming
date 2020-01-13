@@ -1,3 +1,5 @@
+// Lesson 7: Exploring String Methods
+
 let name = ' Sipo Charles  '
 
 // Length property
