@@ -8,6 +8,7 @@ let myBook = {
     pageCount: 199
 }
 
+// Dot Notation for Object Properties
 console.log(`${myBook.title} by ${myBook.author}`)
 
 myBook.title = 'James and the Giant Peach'
