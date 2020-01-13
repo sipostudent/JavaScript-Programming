@@ -1,6 +1,6 @@
 // Lesson 9: Constant Variables
 
-// Variables created with const cannt be reassigned
+// Variables created with const cannot be reassigned
 
 const person = {
     age: 27
