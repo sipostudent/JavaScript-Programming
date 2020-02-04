@@ -1,15 +1,12 @@
-const errands = ['Grocery shopping', 'Gym time', 'Phone a friend', 'Cook dinner', 'Watch Netflix']
+const todos = ['Order cat food', 'Clean kitchen', 'Buy food', 'Do work', 'Exercise']
 
-errands.splice(2, 1)
-errands.push('Buy coffee')
-errands.shift()
+todos.splice(2, 1)
+todos.push('Buy coffee')
+todos.shift()
 
-console.log(`You have ${errands.length} errands!`)
+console.log(`You have ${todos.length} todos!`)
 
-errands.forEach(function (errands, index) {
+todos.forEach(function (todo, index) {
     const num = index + 1
-    console.log(`${num}. ${errands}`)
+    console.log(`${num}. ${todo}`)
 })
-
-// 1. The first item
-// 2. The second item
